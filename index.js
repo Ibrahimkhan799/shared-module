@@ -1,12 +1,16 @@
+import { init, setRoute } from "serverifier";
+
 const Init = (port = 3000, api = "/") => {
-  return { port, api };
+  const result = init(port, api);
+  return restult;
 };
 
 const SetRoute = (
   api,
   data = "This is a simple route created using Serverifier!"
 ) => {
-  return { api, data };
+  const result = setRoute(api, data);
+  return result;
 };
 
 const SharedModule = {

@@ -15,5 +15,8 @@
     "shared-module"
   ],
   "author": "Ibrahim Khan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "serverifier": "^1.1.1"
+  }
 }
