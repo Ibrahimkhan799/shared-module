@@ -1,4 +1,4 @@
-# shared-module
+# @ibrahimkhan/shared-module
 
 A module that will be used as middleware between server and client.
 
@@ -7,5 +7,5 @@ A module that will be used as middleware between server and client.
 To install the module use the following command :
 
 ```bash
-    npm install shared-module
+    npm install @ibrahimkhan/shared-module
 ```

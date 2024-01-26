@@ -1,8 +1,9 @@
 {
-  "name": "@serverifier/shared-module",
+  "name": "@ibrahimkhan/shared-module",
   "version": "1.0.0",
   "description": "A module that will be used as middleware between server and client.",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "run": "node index.js"
   },
