@@ -1,6 +1,6 @@
 {
   "name": "serverifier-shared-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that will be used as middleware between server and client.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "serverifier": "^1.1.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "LICENSE"
+  ]
 }
