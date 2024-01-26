@@ -4,7 +4,7 @@
   "description": "A module that will be used as middleware between server and client.",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
